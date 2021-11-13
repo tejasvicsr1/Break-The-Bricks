@@ -1,18 +1,8 @@
-# Copy of Assignment Template
-
----
-
-## Design and Analysis of Software Systems
-
----
+# Break The Bricks
 
 ### Tejasvi Chebrolu
 
-2019114005
-
 ---
-
-# Break The Bricks
 
 A terminal game created without any curses libraries like `Pygame` for the course Design and Analysis of Software Systems. This is a recreation of the common *brick breaker game* in Python with additional *powerups* like multiple balls, etc.
 
